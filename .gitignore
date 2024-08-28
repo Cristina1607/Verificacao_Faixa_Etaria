@@ -1,0 +1,36 @@
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+Verificação de Faixa Etária
+
+Descrição: Desenvolva um programa em Python que solicita ao usuário sua idade e classifica a pessoa em uma das seguintes faixas etárias: Criança (0 a 12 anos), Adolescente (13 a 17 anos), Adulto (18 a 64 anos), ou Idoso (65 anos ou mais). O programa deve exibir uma mensagem informando em qual faixa etária o usuário se encontra.
+
+Funcionalidades obrigatórias:
+
+1. Leitura da idade inserida pelo usuário.
+2. Classificação do usuário em uma das faixas etárias: Criança, Adolescente, Adulto, ou Idoso.
+3. Exibição de uma mensagem informando a faixa etária do usuário.
+Tecnologias: Python 3.x
+
+Licença: MIT License
